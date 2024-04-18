@@ -1,0 +1,73 @@
+/* Esercizio 1 */
+.jumbotron h1{
+    border: 2px solid blue;
+    color: blue;
+}
+
+/* Esercizio 2 */
+
+nav:first-of-type span{
+    border: 1px solid red;
+    color: red;
+}
+
+/* Esercizio 3 */
+
+.jumbotron p a {
+    background-color: orange;
+}
+
+/* Esercizio 4 */
+
+.blog-post:first-of-type {
+    border: 2px solid green;
+}
+
+/* Esercizio 5 */
+
+.blog-post:first-of-type hr {
+    background-color: red;
+}
+
+/* Esercizio 6 */
+
+nav:first-of-type span:nth-child(even){
+    background-color: aquamarine;
+}
+
+/* Esercizio 7 */
+
+aside div:nth-child(2) .list-unstyled li {
+    border: 1px solid salmon;
+}
+
+/* Esercizio 8 */
+
+main div:nth-child(3) p.blog-post-meta a{
+    background-color: red;
+}
+
+/* Esercizio 9 */
+
+.blog-main div:nth-child(4) ul li:nth-child(2){
+    background-color: blue;
+}
+
+/* Esercizio 10 */
+
+footer + a {
+    border: 2px solid black;
+    background-color: yellow;
+}
+
+/* Esercizio 11 */
+
+.blog-pagination a:nth-child(2){
+  background-color: violet;
+}
+
+/* Esercizio 12*/
+
+footer p a:nth-child(2){
+    border: 2px solid purple;
+}
